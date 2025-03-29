@@ -1,4 +1,4 @@
-# TOWARDS TAILORED BREAST CANCER SCREENING: ASSESSING THE ADDED VALUE OF 313-POLYGENIC RISK SCORE AND BREAST DENSITY IN A DUTCH SCREENING COHORT
+# Towards tailored breast cancer screening: Assessing the added value of 313-polygenic risk score and breast density in a Dutch screening cohort
 
 BOADICEA is a multifactorial breast cancer risk prediction model that incorporates established risk factors, including polygenic risk scores (PRS) and mammographic breast density (BD). While extensively validated in high-risk populations, its performance in screening cohorts remains unclear. This study evaluates the clinical validity of BOADICEA in a population-based screening cohort.
 
