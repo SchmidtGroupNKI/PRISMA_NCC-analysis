@@ -23,8 +23,8 @@ Netherlands Cancer Institute <br/>
 | Author                 | Role   | Description             |
 | :----                  | :----: | :----                   |
 | Mary Ann Binuya   | Author | Development and support |
-| Renée Verdiesen  | Author | Review   |
-| Jim Peters    | Author | Review  |
+| Renée Verdiesen  | Author | Development and review   |
+| Jim Peters    | Author | Development and review  |
 | Maartje Schreurs  | Author | Review   |
 | Danielle van der Waal  | Author | Review   |
 | Marjanka Schmidt  | Author | Review   |
