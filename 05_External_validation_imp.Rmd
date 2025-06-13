@@ -332,8 +332,8 @@ NB_df <- NB_df %>% rename(
   #abline(v=eventrate, col="red", lty=1, lwd=2) #event rate
   abline(h=0, col="black", lwd=1)
   
-  text(x = 0.024, y = 7.25, labels = "Chemoprevention\nconsidered", col = "darkgray", cex = 0.8, font = 1)
-  text(x = 0.037, y = 7.25, labels = "Chemoprevention\nhighly\nrecommended", col = "darkgray", cex = 0.8, font = 1)
+  text(x = 0.024, y = 7.25, labels = "Risk-reducing\nmedication\nconsidered", col = "darkgray", cex = 0.8, font = 1)
+  text(x = 0.037, y = 7.0, labels = "Risk-reducing\nmedication\nhighly\nrecommended", col = "darkgray", cex = 0.8, font = 1)
 
   smooth1 <- smooth.spline(NB_df$threshold, NB_df$NB_mod1*1000, spar=0.5)
   lines(smooth1, type = "l", lwd = 3, col=colors[2])
@@ -576,6 +576,6 @@ cutoff <- 0.017
 
 ```{r save}
 # Save
-save.image("WS_05_Ext_Val_Imp.RData")
+#save.image("WS_05_Ext_Val_Imp.RData")
 ```
 
