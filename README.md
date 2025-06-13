@@ -12,6 +12,7 @@ We validated BOADICEA (v7.3.2) in the PRISMA cohort (n=82,200 women in the Dutch
 | 05_External_validation_DCIShg.Rmd       | Validation of the BOADICEA model in the dataset including high grade DCIS as cases.
 | 05_External_validation_DCISall.Rmd     | Validation of the BOADICEA model in the dataset including all DCIS as cases.
 | 05_External_validation_subg_Age.Rmd    | Subgroup analysis by age.
+| 06_DCA_Simulation    | Additional analysis and simulations conducted for assessing utility for decisions on screening intervals.
 | perf_functions.R                       | Functions to calculate model performance.
 
 # Contact
